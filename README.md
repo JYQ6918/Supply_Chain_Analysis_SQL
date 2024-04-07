@@ -40,8 +40,8 @@ The products recommended for retailers are those products that can bring **high 
 ### High Profits  
 The products that bring the most total profit are SKU59, SKU81, SKU52 for cosmetics, haircare, and skincare products respectively.
 
-### High Demand and High Demand/Supply Synchronization  
-The products that bring the highest demand and Demand/Supply Synchronization are SKU17, SKU43, SKU67 for cosmetics, haircare, and skincare products respectively.  
+### High Demand/Supply Synchronization  
+The products that bring the highest Demand/Supply Synchronization are SKU17, SKU43, SKU67 for cosmetics, haircare, and skincare products respectively.  
 
 
 ## QUESTION 4 Which Shipment Route and Carrier?  
