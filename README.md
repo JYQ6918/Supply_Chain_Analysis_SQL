@@ -4,7 +4,7 @@ In this project, I will conduct an in-depth analysis from the point of view of a
 Through a series of structured SQL queries, I will extract and analyze data to answer these key questions:  
 - [x] Which suppliers are we purchasing our beauty products from?  
 - [x] What are the characteristics of the customers who purchase these products?  
-- [x] Which products are more profitable?  
+- [x] Which products can be recommended to retailers for sale?  
 - [x] What transportation methods and shipment carriers are most effective for delivering these products?  
 
 
@@ -35,7 +35,7 @@ Female customers contribute the most to the skincare category. Therefore, to mak
 
 
 ## QUESTION 3 Which Products?  
-The products recommended for retailers are those products that can bring **high profit, high demand, and high demand/supply synchronization**.
+The products recommended for retailers are those products that can bring **high profit and high demand/supply synchronization**.
 
 ### High Profits  
 The products that bring the most total profit are SKU59, SKU81, SKU52 for cosmetics, haircare, and skincare products respectively.
